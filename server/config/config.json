@@ -1,0 +1,7 @@
+{
+    "db": {
+        "uri": "mongodb://<dbuser>:<dbpassword>@ds133137.mlab.com:33137/vue_express",
+        "pass": "abc123",
+        "user": "abc123"
+    }
+}
